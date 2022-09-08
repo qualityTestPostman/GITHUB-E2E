@@ -4,24 +4,12 @@ id = 3b5d8a30-e1d8-428d-90d8-ad8b57013cef
 
 [relations.collections]
 rootDirectory = postman/collections
-files[] = {"id":"0ac8eb81-94cc-4d57-83d1-c450b163bc54","path":"GitHub API Collection_819392-0ac8eb81-94cc-4d57-83d1-c450b163bc54.json","metaData":{}}
-files[] = {"id":"2cfabd33-eb9d-468c-af17-80f97b272199","path":"GitHub API Collection_819392-2cfabd33-eb9d-468c-af17-80f97b272199.json","metaData":{}}
-files[] = {"id":"35259697-e402-48e4-a659-b2150f81fd13","path":"GitHub API Collection_819392-35259697-e402-48e4-a659-b2150f81fd13.json","metaData":{}}
-files[] = {"id":"06f338a2-db8d-49e7-ba48-d792b25960a8","path":"GitHub API Collection_819392-62b7e76e-3cc1-498a-a3f7-15768c430e06.json","metaData":{}}
-files[] = {"id":"90e97ff6-c6d6-4cfb-a459-15cf831604ad","path":"GitHub API Collection_819392-90e97ff6-c6d6-4cfb-a459-15cf831604ad.json","metaData":{}}
-files[] = {"id":"9a1c1feb-bdcd-443f-8459-96ac5da56270","path":"GitHub API Collection_819392-9a1c1feb-bdcd-443f-8459-96ac5da56270.json","metaData":{}}
-files[] = {"id":"aa7cf0a7-4274-4688-be90-c1e2eea3105c","path":"GitHub API Collection_819392-aa7cf0a7-4274-4688-be90-c1e2eea3105c.json","metaData":{}}
-files[] = {"id":"cf90dd6e-f5ca-400f-b700-6c07ab597edb","path":"GitHub API Collection_819392-cf90dd6e-f5ca-400f-b700-6c07ab597edb.json","metaData":{}}
-files[] = {"id":"da3d30a6-4caf-4216-ae2d-8cbae41d5878","path":"GitHub API Collection_819392-da3d30a6-4caf-4216-ae2d-8cbae41d5878.json","metaData":{}}
-files[] = {"id":"f35f0e04-f110-419f-b19e-9573647d9193","path":"GitHub API Collection_819392-f35f0e04-f110-419f-b19e-9573647d9193.json","metaData":{}}
-files[] = {"id":"fce6cc19-53c3-43a0-a6b8-3ebf7c7882d6","path":"GitHub API Collection_819392-fce6cc19-53c3-43a0-a6b8-3ebf7c7882d6.json","metaData":{}}
 
 [relations.collections.metaData]
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
 files[] = {"path":"index.yaml","metaData":{}}
-files[] = {"path":"New.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
