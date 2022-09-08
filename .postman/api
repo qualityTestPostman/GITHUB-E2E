@@ -4,9 +4,10 @@ id = 3b5d8a30-e1d8-428d-90d8-ad8b57013cef
 
 [relations.collections]
 rootDirectory = postman/collections
+files[] = {"id":"582536e8-c2bf-4d7c-adf6-08d353851aee","path":"GitHub API Collection_819392-0ac8eb81-94cc-4d57-83d1-c450b163bc54.json","metaData":{}}
 files[] = {"id":"90e97ff6-c6d6-4cfb-a459-15cf831604ad","path":"GitHub API Collection_819392-90e97ff6-c6d6-4cfb-a459-15cf831604ad.json","metaData":{}}
 files[] = {"id":"9a1c1feb-bdcd-443f-8459-96ac5da56270","path":"GitHub API Collection_819392-9a1c1feb-bdcd-443f-8459-96ac5da56270.json","metaData":{}}
-files[] = {"id":"8a2ebd5b-1b24-4201-bac6-353010b91207","path":"GitHub API Collection_819392-aa7cf0a7-4274-4688-be90-c1e2eea3105c.json","metaData":{}}
+files[] = {"id":"aa7cf0a7-4274-4688-be90-c1e2eea3105c","path":"GitHub API Collection_819392-aa7cf0a7-4274-4688-be90-c1e2eea3105c.json","metaData":{}}
 files[] = {"id":"f35f0e04-f110-419f-b19e-9573647d9193","path":"GitHub API Collection_819392-f35f0e04-f110-419f-b19e-9573647d9193.json","metaData":{}}
 files[] = {"id":"fce6cc19-53c3-43a0-a6b8-3ebf7c7882d6","path":"GitHub API Collection_819392-fce6cc19-53c3-43a0-a6b8-3ebf7c7882d6.json","metaData":{}}
 
