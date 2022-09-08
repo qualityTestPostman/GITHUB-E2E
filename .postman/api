@@ -4,14 +4,15 @@ id = 3b5d8a30-e1d8-428d-90d8-ad8b57013cef
 
 [relations.collections]
 rootDirectory = postman/collections
+files[] = {"id":"204313d7-fd80-4415-8709-b6db17c17fd5","path":"GitHub API Collection_819392-204313d7-fd80-4415-8709-b6db17c17fd5.json","metaData":{}}
 files[] = {"id":"541dbf73-df63-498d-a52b-24e1bc827a7f","path":"GitHub API Collection_819392-541dbf73-df63-498d-a52b-24e1bc827a7f.json","metaData":{}}
+files[] = {"id":"710f60a3-f271-45a9-b33b-18c73c3e229b","path":"GitHub API Collection_819392-710f60a3-f271-45a9-b33b-18c73c3e229b.json","metaData":{}}
 
 [relations.collections.metaData]
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
 files[] = {"path":"index.yaml","metaData":{}}
-files[] = {"path":"New.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
