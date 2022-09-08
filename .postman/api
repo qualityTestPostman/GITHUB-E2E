@@ -11,7 +11,6 @@ files[] = {"id":"c0e68620-c04d-4503-9ceb-398ceafbe52d","path":"GitHub API Collec
 [relations.apiDefinition]
 rootDirectory = postman/schemas
 files[] = {"path":"index.yaml","metaData":{}}
-files[] = {"path":"New.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
