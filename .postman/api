@@ -9,6 +9,7 @@ files[] = {"id":"36e6da17-f6f7-4a1a-b835-34ce5b1e13c8","path":"GitHub API Collec
 files[] = {"id":"38f7b2b8-c1b3-47d6-8315-a21a1a569324","path":"GitHub API Collection_819392-38f7b2b8-c1b3-47d6-8315-a21a1a569324.json","metaData":{}}
 files[] = {"id":"427d8045-1904-40fb-82d6-0cd442f3efe8","path":"GitHub API Collection_819392-427d8045-1904-40fb-82d6-0cd442f3efe8.json","metaData":{}}
 files[] = {"id":"720aac9e-703f-440c-8226-a9ea338856dc","path":"GitHub API Collection_819392-720aac9e-703f-440c-8226-a9ea338856dc.json","metaData":{}}
+files[] = {"id":"7f8778b5-9f2b-450a-b63d-b42008198e3c","path":"GitHub API Collection_819392-7f8778b5-9f2b-450a-b63d-b42008198e3c.json","metaData":{}}
 files[] = {"id":"e9758b08-5e53-4f92-a48e-9179eaa05d9f","path":"GitHub API Collection_819392-e9758b08-5e53-4f92-a48e-9179eaa05d9f.json","metaData":{}}
 
 [relations.collections.metaData]
