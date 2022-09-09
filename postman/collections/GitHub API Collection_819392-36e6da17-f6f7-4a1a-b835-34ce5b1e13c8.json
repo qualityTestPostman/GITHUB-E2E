@@ -1,0 +1,25 @@
+{
+	"info": {
+		"_postman_id": "36e6da17-f6f7-4a1a-b835-34ce5b1e13c8",
+		"name": "GitHub API Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_uid": "819392-36e6da17-f6f7-4a1a-b835-34ce5b1e13c8"
+	},
+	"item": [
+		{
+			"name": "test",
+			"id": "058360b5-e845-4b58-92e1-039c5ca3ce6b",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	]
+}
