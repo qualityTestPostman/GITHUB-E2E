@@ -7,6 +7,7 @@ rootDirectory = postman/collections
 files[] = {"id":"109923ce-6e6b-4b35-b1e3-5fd685826d5b","path":"GitHub API Collection_819392-109923ce-6e6b-4b35-b1e3-5fd685826d5b.json","metaData":{}}
 files[] = {"id":"427d8045-1904-40fb-82d6-0cd442f3efe8","path":"GitHub API Collection_819392-427d8045-1904-40fb-82d6-0cd442f3efe8.json","metaData":{}}
 files[] = {"id":"720aac9e-703f-440c-8226-a9ea338856dc","path":"GitHub API Collection_819392-720aac9e-703f-440c-8226-a9ea338856dc.json","metaData":{}}
+files[] = {"id":"e9758b08-5e53-4f92-a48e-9179eaa05d9f","path":"GitHub API Collection_819392-e9758b08-5e53-4f92-a48e-9179eaa05d9f.json","metaData":{}}
 
 [relations.collections.metaData]
 
